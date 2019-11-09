@@ -21,6 +21,7 @@
   <component name="ProjectId" id="1TNsTDlIc2DLcMvYx3x3vKBCHVP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -54,7 +55,11 @@
       <updated>1573311892852</updated>
       <workItem from="1573311895816" duration="63000" />
       <workItem from="1573312017375" duration="204000" />
+<<<<<<< Updated upstream
       <workItem from="1573312254117" duration="2796000" />
+=======
+      <workItem from="1573312254117" duration="4226000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
