@@ -84,6 +84,11 @@ function sendMessage() {
     if (value === '') {
         return;
     }
+    let valueL = value.toLowerCase();
+    if (valueL.includes("fuck") || valueL.includes("shit") || valueL.includes("nigger") ||valueL.includes("suicide") ||  valueL.includes("nigga")) {
+    value = '';
+console.log("no no");
+}
     DOM.input.value = '';
     drone.publish({
         room: 'observable-room',
