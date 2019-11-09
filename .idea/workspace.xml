@@ -55,11 +55,15 @@
       <updated>1573311892852</updated>
       <workItem from="1573311895816" duration="63000" />
       <workItem from="1573312017375" duration="204000" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <workItem from="1573312254117" duration="2796000" />
 =======
       <workItem from="1573312254117" duration="4226000" />
 >>>>>>> Stashed changes
+=======
+      <workItem from="1573312254117" duration="3713000" />
+>>>>>>> gh-pages
     </task>
     <servers />
   </component>
