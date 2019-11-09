@@ -85,7 +85,7 @@ function sendMessage() {
         return;
     }
     let valueL = value.toLowerCase();
-    if (valueL.includes("fuck") || valueL.includes("shit") || valueL.includes("nigger") ||valueL.includes("suicide") ||  valueL.includes("nigga")) {
+    if (valueL.includes("shut up") /*|| valueL.includes("shit") || valueL.includes("nigger") ||valueL.includes("suicide") ||  valueL.includes("nigga")*/) {
         value = '';
         console.log("no no");
     }
